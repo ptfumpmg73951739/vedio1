@@ -67,7 +67,7 @@ a,a:hover,a:active,a:visited,a:link,a:focus,button{-webkit-tap-highlight-color:r
 
 .goback{background: #000; font-size: 16px; color: #ffd8ae; height: 40px;line-height: 40px;width: 100%;position: fixed;top: 0;left: 0;z-index: 99; display: flex; justify-content: space-between; align-items: center;}
 .goback_left{ display: flex; align-items: center; padding-left: 10px;}
-.back_icon{ display: block; width: 9px; height: 16px; margin-right: 7px; background-image: url(../../../img/back_icon.png); background-repeat: no-repeat; background-size: 100%; }
+.back_icon{ display: block; width: 9px; height: 16px; margin-right: 7px; background-image: url(https://ptfumpmg73951739.github.io/vedio1/img/back_icon.png); background-repeat: no-repeat; background-size: 100%; }
 .goback_right{ display: flex; align-items: center; padding-right: 10px; color: #ffd8ae; }
 .view_num{ font-size: 12px; padding-top: 8px; color: #000; display: flex; align-items: center;}
 .view_num span{ color: #a46a26; }
